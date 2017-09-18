@@ -1,2 +1,7 @@
 This repository is my learning route following the book: 
 http://www.pythondoc.com/flask-mega-tutorial/index.html
+
+* Run
+#+BEGIN_SRC sh 
+./run.py
+#+END_SRC
